@@ -1,9 +1,21 @@
-#  Retail Café Sales: Data Cleaning & Exploratory Analysis (Excel)
+#  Retail Café Sales: Data Cleaning & Exploratory Analysis
+
+> **Live Interactive Spreadsheet:**[View in Google Sheets](https://docs.google.com/spreadsheets/d/13e2OuIc_2ae51mRaFQDwjKiCt-SBGVS45KdFU82X8Hk/edit?usp=sharing)
 
 ##  Project Overview
 This project focuses on **data hygiene, exploratory analysis, and revenue driver identification** using transactional sales data from a retail café. 
 
 Designed as an end-to-end data quality and exploratory case study, this project prioritizes rigorous data hygiene and statistical validation in Excel to ensure accurate, trustworthy baseline reporting.
+
+---
+
+## Data Analysis & Visualizations
+
+**Pivot Tables Summary**
+![Google Sheets Pivot Tables](cafesales-pivottables.png)
+
+**Sales & Performance Charts**
+![Google Sheets Charts](Cafesales-charts.png)
 
 ---
 
@@ -40,5 +52,6 @@ Designed as an end-to-end data quality and exploratory case study, this project 
 
 ##  Repository Files
 
+**Live Interactive Sheets:**[View in Google Sheets](https://docs.google.com/spreadsheets/d/13e2OuIc_2ae51mRaFQDwjKiCt-SBGVS45KdFU82X8Hk/edit?usp=sharing)
 * [Dirty Cafe Sales.xlsx](Dirty%20Cafe%20Sales.xlsx) — Full Excel workbook *(Please download file to view interactive pivot tables & charts in Excel/Google Sheets)*
 * [Dirty Cafe Sales - Executive Summary.pdf](Dirty%20Cafe%20Sales%20-%20Executive%20Summary.pdf) — Polished project summary document formatted for executive review.
