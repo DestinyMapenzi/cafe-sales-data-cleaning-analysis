@@ -40,5 +40,5 @@ Designed as an end-to-end data quality and exploratory case study, this project 
 
 ##  Repository Files
 
-* `Dirty_Cafe_Sales_Analysis.xlsx` - Full Excel workbook containing raw data, cleaned dataset, 4 pivot tables, and charts.
-* `Dirty Cafe Sales - Executive Summary.pdf` - Polished project summary document formatted for executive review.
+* [Dirty Cafe Sales.xlsx](Dirty%20Cafe%20Sales.xlsx) — Full Excel workbook containing raw data, cleaned dataset, 4 pivot tables, and charts.
+* [Dirty Cafe Sales - Executive Summary.pdf](Dirty%20Cafe%20Sales%20-%20Executive%20Summary.pdf) — Polished project summary document formatted for executive review.
